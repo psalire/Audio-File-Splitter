@@ -1,5 +1,7 @@
 # Python Audio Splitter
 
+Script to split an audio file into equal sized chunks of n-milliseconds length.
+
 ## Help
 
 ```
