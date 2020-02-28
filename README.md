@@ -18,3 +18,7 @@ optional arguments:
                         'output_1.wav''output_2.wav', ... Default: output
   -v, --verbose         Verbose. Default: false
 ```
+
+### Note
+
+Script assumes .wav as input. Change script for other input as necessary
